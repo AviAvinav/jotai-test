@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 100,
+      "description": "An apple a day keeps the doctor away and hence also the medical bills"
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "price": 80,
+      "description": "I don't like an Orange at all, too citrusy for me, Bleh!"
+    },
+    {
+      "id": 3,
+      "name": "Dragon Fruit",
+      "price": 200,
+      "description": "Rich People's fruit, never tasted it but heard it tastes like water"
+    }
+  ]
+}
